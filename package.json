@@ -1,0 +1,9 @@
+{
+  "name": "NO_OP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/brooswit/NO_OP",
+  "author": "Jay <jwinstead@launchdarkly.com>",
+  "license": "MIT"
+}
